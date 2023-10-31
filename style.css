@@ -51,12 +51,14 @@ body{
         width: 90%;
     }
 
-    .container input {
-        padding: 10px;
+ .container input {
+        padding: 20px 50px;
+        width: 100%;
     }
 
-    .container button {
-        padding: 10px 50px;
+     .container button {
+        padding: 20px 50px;
+        width: 100%;
     }
 }
   
